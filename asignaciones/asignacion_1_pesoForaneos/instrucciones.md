@@ -1,4 +1,4 @@
-# Asignación 1: Optimización de Recursos Colectivos y Consenso Social 🏛️📊
+# Asignación 1: Optimización de Recursos Colectivos y Consenso Social
 
 ## 🎯 Objetivo del Proyecto
 El estudiante diseñará e implementará un script en Python que procese de forma automatizada los tokens de disponibilidad generados por la sección en WhatsApp. El núcleo del reto consiste en evaluar el comportamiento del sistema mediante un enfoque bicriterio, utilizando dos métricas juezas concurrentes para determinar matemáticamente el **Peso Ideal ($W_f$)** de influencia que se le debe otorgar a un estudiante foráneo. El fin es equilibrar de forma "justa" el sistema, protegiendo a la minoría vulnerable sin destruir la satisfacción de la mayoría local.
